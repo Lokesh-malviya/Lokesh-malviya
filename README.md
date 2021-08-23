@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Lokesh-malviya/Lokesh-malviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👦 Name : Lokesh Malviya
+- 🎓 Education : Currently pursuing B.E (1st Year)
+- 🏫 College : Shri Ramdeobaba college of Enginnering and Managment Nagpur
+- 🔭 I’m currently working on : Bulding Gadgets
+- 🌱 I’m currently learning : Arudino programing(Bulding Robots)
+- 💬 Ask me about : Competative Programming
+- 👩‍💻 Competative programming rank : 
+-         i.  Hackerrank C : 4⭐
+-         ii. Hakerrank Python : 3⭐
+- 📫 How to reach me: 
+-         i.  Linkedin : lokesh malviya
+-         ii. Instagram : dark_eights
+- 💻 Projects : ------------------------> (uploaded at github)
+-     using  HTML CSS Javascript
+-         1. 🌐 Dream webpage  
+-         2. 🎥 Animation
+-         3. 🔉 audio player (sound)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
