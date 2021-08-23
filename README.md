@@ -15,7 +15,7 @@
 - 💻 Projects : ------------------------> (uploaded at github)
 -     using  HTML CSS Javascript
 -         1. 🌐 Dream webpage  
--         2. 🎥 Animation
+-         2. 🎥 Animation - link(https://lokesh-malviya.github.io/animationIndex.github.io/)
 -         3. 🔉 audio player (sound)
 
 
