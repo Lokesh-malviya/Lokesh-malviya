@@ -8,7 +8,8 @@
 - 💬 Ask me about : Competative Programming
 - 👩‍💻 Competative programming rank : 
 -         i.  Hackerrank C : 4⭐
--         ii. Hakerrank Python : 3⭐
+-         ii. Hakerrank Python : 5⭐
+-         iii.Code Chef : 3⭐
 - 📫 How to reach me: 
 -         i.  Linkedin : lokesh malviya
 -         ii. Instagram : dark_eights
