@@ -9,7 +9,7 @@
 
 
 ## :sassy_man:  About me
-- :College: I am a `2nd year Student` at Shri Ramdeobaba College Of Enginnering And Managment Nagpur
+- :College: I am a `3rd year Student` at Shri Ramdeobaba College Of Enginnering And Managment Nagpur
 - :trophy: `Encode` - hackathon IIT Guwahati, and Coding Club IIT Guwahati, has conducted “EnCode” presented by BOSCH.
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codechef`
